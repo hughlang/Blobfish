@@ -7,7 +7,7 @@
 //
 
 import UIKit
-import Reachability
+import ReachabilitySwift
 
 /**
  Blobfish can present general error messages related to URL Requests in a meaningful way. Pass an object conforming to 
